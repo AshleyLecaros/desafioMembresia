@@ -1,4 +1,6 @@
+# Importando
 from abc import ABC, abstractmethod
+
 
 class Membresia(ABC):
     def __init__(self, correo_suscriptor: str, numero_tarjeta: str):
