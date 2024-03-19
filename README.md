@@ -13,7 +13,7 @@ Estas instrucciones te guiarán para obtener una copia de este proyecto en funci
 Clonar el repositorio en tu maquina local.
 
 ```bash
-git clone urlgit
+git clone git@github.com:AshleyLecaros/desafioMembresia.git
 ```
 
 ### Prerrequisitos 📋
@@ -36,4 +36,4 @@ Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, sigue esto
 
 ## Autor
 
-Este proyecto fue creado por [Ashley Michell]
+Este proyecto fue creado por [Ashley Michell](https://github.com/AshleyLecaros)
